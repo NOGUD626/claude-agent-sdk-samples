@@ -1,0 +1,23 @@
+{
+  "name": "agent-sdk-test",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "hello": "tsx hello.ts",
+    "tool": "tsx with-tool.ts",
+    "session": "tsx session-resume.ts",
+    "session:resume": "tsx session-resume.ts --resume",
+    "interactive": "tsx interactive.ts",
+    "think": "tsx think-hard.ts",
+    "fork": "tsx fork-explore.ts"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-agent-sdk": "latest",
+    "zod": "^4.0.0"
+  },
+  "devDependencies": {
+    "tsx": "^4.19.0",
+    "typescript": "^5.6.0"
+  }
+}

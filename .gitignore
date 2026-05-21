@@ -1,0 +1,4 @@
+node_modules/
+.last-session-id
+.DS_Store
+*.log
