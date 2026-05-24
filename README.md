@@ -1,5 +1,13 @@
 # agent-sdk-test
 
+![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-20+-5FA04E?logo=nodedotjs&logoColor=white)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-0.3.146-D97757?logo=anthropic&logoColor=white)
+![Claude CLI](https://img.shields.io/badge/claude_CLI-2.1.144-D97757?logo=anthropic&logoColor=white)
+![zod](https://img.shields.io/badge/zod-4.x-3068B7)
+![macOS](https://img.shields.io/badge/macOS-Apple_Silicon-000000?logo=apple&logoColor=white)
+![License](https://img.shields.io/badge/License-Public_Domain-lightgrey)
+
 [Claude Agent SDK](https://www.npmjs.com/package/@anthropic-ai/claude-agent-sdk)
 (旧 Claude Code SDK) の最小動作確認用サンプル。
 
